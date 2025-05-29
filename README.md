@@ -44,10 +44,3 @@ To **illuminate each network’s decision process**, the notebook integrates **G
 
 ---
 
-## Reproducibility
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook Alzheimer_CNN_Benchmark.ipynb
